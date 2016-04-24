@@ -155,7 +155,7 @@ img{
 .btn{
   background: white;
   border: solid;
-  color: #005000;
+  color: black;
   padding: 15px 20px;
   font-size: 20px;
   border-radius: 7px;
@@ -167,9 +167,9 @@ img{
 }
 
 .btn:hover{
-  background: #3CBB3C;
-  color: black;
+  background: black;
+  color: white;
   border-radius: 7px;
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 5px white;
   transition-duration: 0.4s;
 }
