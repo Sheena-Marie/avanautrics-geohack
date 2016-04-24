@@ -140,3 +140,36 @@ h1{
   word-wrap: break-word;
   float: center-text;
 }
+
+img{
+  width: 100%
+  display: inline-block
+  position: center;
+  margin: auto;
+  padding-top: 50px;
+  padding-left: 300px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+
+.btn{
+  background: white;
+  border: solid;
+  color: #005000;
+  padding: 15px 20px;
+  font-size: 20px;
+  border-radius: 7px;
+  font-family: 'Istok Web';
+  cursor: pointer;
+  text-align: center;
+  width: 150px;
+  word-wrap: break-word;
+}
+
+.btn:hover{
+  background: #3CBB3C;
+  color: black;
+  border-radius: 7px;
+  text-shadow: 2px 2px 5px black;
+  transition-duration: 0.4s;
+}
