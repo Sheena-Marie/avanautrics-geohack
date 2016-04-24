@@ -1,4 +1,4 @@
-Team Ava-Nautrice's solution to the Geotaggina Space and Aviation Challenge in the NASA Space Apps Challenge. Sydney, 2016.
+Team Ava-Nautrice's solution to the "Geotaging and Space and Aviation Challenge" in the NASA Space Apps Challenge. Sydney, 2016.
 
 Group members:
 
